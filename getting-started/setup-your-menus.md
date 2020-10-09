@@ -7,7 +7,9 @@ description: >-
 
 # Setup Your Menus
 
-{% embed url="https://youtu.be/Nyyr2vwB1Io" caption="Menu setup video tutorial" %}
+{% embed url="https://youtu.be/IVAr3cO4aOo" caption="Menu Setup Training Part 1 \(Basic Customisation\)" %}
+
+{% embed url="https://youtu.be/JTeXKSsNK9I" caption="Menu Setup Training Part 2 \(Advanced Customisation\)" %}
 
 ## Setup Process
 

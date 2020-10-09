@@ -24,7 +24,7 @@ Initially, your customers will not be aware of your new online ordering system. 
 
 ## Paid Advertising
 
-You can consider paying for Facebook or Google ads. Both of these are avenues to generate new customers. We highly recommend utilising Facebook advertising as it is dirt cheap and easy to target local consumers with.
+You can consider paying for Facebook or Google ads. Both of these are avenues to generate new customers. We highly recommend utilizing Facebook advertising as it is dirt cheap and easy to target local consumers with.
 
 ## Create A Google Places Listing
 
@@ -32,13 +32,13 @@ A Google places listing will allow local customers to find you far easier as its
 
 Do not forget to add a "Placing an order" link to your places listing. See the following article on how this can be done [https://support.google.com/business/answer/6218037?hl=en](https://support.google.com/business/answer/6218037?hl=en)
 
-## Search Engine Optimisation
+## Search Engine Optimization
 
-SEO which stands for search engine optimisation is the process of making your site discoverable and rank high on search engines such as Google.
+SEO which stands for search engine optimization is the process of making your site discoverable and rank high on search engines such as Google.
 
 ### Setup A Custom Domain Name
 
-By default, your online store can be found on a sub-domain of ".oops.menu. It is essential that you set this subdomain to be something that customers can easily remember and recognise.
+By default, your online store can be found on a sub-domain of "cloudwaitress.com. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
 
 While the subdomain is just there to get you up and running quickly, it's best to purchase your own domain name for your business. You can then configure your store to your own custom domain name.
 
