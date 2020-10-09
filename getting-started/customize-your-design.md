@@ -5,15 +5,17 @@ description: >-
   located under the settings page in the design
 ---
 
-# Customize Your Design
+# Customise Your Design
 
-{% embed url="https://youtu.be/g3ibBakpqMU" caption="Design video tutorial" %}
+{% embed url="https://youtu.be/ufxCGlYYOP8" caption="Part 1" %}
 
-## How To Customize Your Design
+{% embed url="https://youtu.be/dsd7OXzW3N4" caption="Part 2" %}
+
+## How To Customise Your Design
 
 1. Visit the restaurant settings page and go to the design tab
 2. Press "Open Design Mode" to open up the site design editor
-3. Go through each of the setting sections and customize options as needed 
+3. Go through each of the setting sections and customise options as needed 
 
 ## Quickstart Recommendation
 

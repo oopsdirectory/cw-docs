@@ -7,18 +7,16 @@ description: >-
 
 # Setup Your Menus
 
-{% embed url="https://youtu.be/IVAr3cO4aOo" caption="Menu Setup Training Part 1 \(Basic Customisation\)" %}
-
-{% embed url="https://youtu.be/JTeXKSsNK9I" caption="Menu Setup Training Part 2 \(Advanced Customisation\)" %}
+{% embed url="https://youtu.be/Nyyr2vwB1Io" caption="Menu setup video tutorial" %}
 
 ## Setup Process
 
-Menus are organised in a tree structure. Menus contain categories and categories contain dishes. The general setup process is as follows.
+Menus are organized in a tree structure. Menus contain categories and categories contain dishes. The general setup process is as follows.
 
 1. Create a menu
 2. Create all the categories under the menu
 3. Create dishes under the categories
-4. Create option-sets to add customisation to dishes
+4. Create option-sets to add customization to dishes
 5. Create dish tags to highlight attributes of particular dishes
 
 {% hint style="info" %}
@@ -92,7 +90,7 @@ Combos are a special type of dish that contain other dishes. It allows you to cr
 To do this you will first need to have created some standard dishes. Then when creating your combo, you can create 4 choices, 3 pizza choices and one drink choice. You can then assign dish choices to the pizzas and drinks for customers to choose from.
 
 {% hint style="info" %}
-Combo dishes cannot contain option sets or ingredients directly. Instead when a customer chooses a standard dish within a combo, if the chosen standard dish has any option sets assigned to it, a user can customise it accordingly.
+Combo dishes cannot contain option sets or ingredients directly. Instead when a customer chooses a standard dish within a combo, if the chosen standard dish has any option sets assigned to it, a user can customize it accordingly.
 {% endhint %}
 
 #### Dish Availability & Status
@@ -107,7 +105,7 @@ In the admin dashboard, you can edit the status of a dish by checking the tickbo
 
 ## Option Sets
 
-All **dish customisation is done using option sets**. Option sets are a configurable set of options that can be assigned to any number of dishes. With option sets, you are able to create requirements such as:
+All **dish customization is done using option sets**. Option sets are a configurable set of options that can be assigned to any number of dishes. With option sets, you are able to create requirements such as:
 
 * Select your pizza crust
 * Select one or more sauces
@@ -119,7 +117,7 @@ To learn how to create an option set that meets your requirements, read the desc
 
 ## Dish Tags
 
-Tags allow you to highly particular attributes about a dish with a fully customisable visual indicator. You can create tags for attributes such as:
+Tags allow you to highly particular attributes about a dish with a fully customizable visual indicator. You can create tags for attributes such as:
 
 * Spicy
 * Vegan
@@ -133,5 +131,5 @@ For your menu to display in your online store, make sure to add at least one cat
 
 ### **Dish images to large**
 
-We highly recommend that you use the website [https://www.birme.net](https://www.birme.net) or [https://tinypng.com/](https://tinypng.com/) to optimise all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.
+We highly recommend that you use the website [https://www.birme.net](https://www.birme.net) or [https://tinypng.com/](https://tinypng.com/) to optimize all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.
 
